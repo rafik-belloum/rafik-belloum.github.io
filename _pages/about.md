@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "Rafik Belloum"
+title: ""
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-### About me
+About me
+======
 
 Hi, I'm Rafik. I'm maître de conférences (~associate professor) in Computer Science at Université Polytechnique Hauts-de-France, and a member of the LAMIH laboratory (UMR CNRS 8201).
 
