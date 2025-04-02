@@ -19,10 +19,9 @@ I follow a user-centered approach that combines need analysis, iterative design,
 Selected Publications
 ======
 
-
 <div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
   <div style="flex-shrink: 0;">
-    <span style="display:inline-block; background-color:white; color:#1a1a1a; padding:0.25em 0.6em; border-radius:0.3em; font-weight:bold; font-size:0.75em; margin-right: 1em;">CHI'23</span>
+    <span style="display:inline-block; background-color:#dddddd; color:#111111; padding:0.25em 0.6em; border-radius:0.3em; font-weight:bold; font-size:0.75em; margin-right: 1em;">CHI'23</span>
   </div>
   <div>
     <p style="margin: 0;">
