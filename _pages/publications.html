@@ -1,36 +1,106 @@
 ---
-layout: archive
+layout: single
 title: "Publications"
 permalink: /publications/
-author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+## Full list
 
-{% include base_path %}
+For a more complete and up-to-date list of my publications, please refer to my profiles on:
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+- [Google Scholar](https://scholar.google.fr/citations?user=HiotmIsAAAAJ&hl=fr)
+- [DBLP](https://dblp.org/pid/238/1679.html)
 
+---
 
+## Selected Publications
 
+Listed in reverse chronological order:
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
+  <div style="flex-shrink: 0;">
+    <span style="display:inline-block; background-color:#cccccc; color:#111111; padding:0.25em 0.6em; border-radius:0.3em; font-weight:bold; font-size:0.75em; margin-right: 1em;">VL/HCC'24</span>
+  </div>
+  <div>
+    <p style="margin: 0;"><strong>Where Are We and Where Can We Go on the Road to Reliance-Aware Explainable User Interfaces?</strong><br>
+    José Cezar de Souza Filho, Rafik Belloum, and Káthia Marçal de Oliveira.<br>
+    <em>IEEE Symposium on Visual Languages and Human-Centric Computing</em></p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
+  <div style="flex-shrink: 0;">
+    <span style="display:inline-block; background-color:#cccccc; color:#111111; padding:0.25em 0.6em; border-radius:0.3em; font-weight:bold; font-size:0.75em; margin-right: 1em;">INTERACT'23</span>
+  </div>
+  <div>
+    <p style="margin: 0;"><strong>Elements that influence transparency in artificial intelligent systems — a survey</strong><br>
+    Deepa Muralidhar, Rafik Belloum, Kathia Marçal de Oliveira, and Ashwin Ashok.<br>
+    <em>IFIP Conference on Human-Computer Interaction</em></p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
+  <div style="flex-shrink: 0;">
+    <span style="display:inline-block; background-color:#cccccc; color:#111111; padding:0.25em 0.6em; border-radius:0.3em; font-weight:bold; font-size:0.75em; margin-right: 1em;">CHI'23</span>
+  </div>
+  <div>
+    <p style="margin: 0;"><strong>On Selective, Mutable and Dialogic XAI: A Review of What Users Say about Different Types of Interactive Explanations</strong><br>
+    Astrid Bertrand, Tiphaine Viard, Rafik Belloum, James R. Eagan, and Winston Maxwell.<br>
+    <em>ACM Conference on Human Factors in Computing Systems</em></p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
+  <div style="flex-shrink: 0;">
+    <span style="display:inline-block; background-color:#cccccc; color:#111111; padding:0.25em 0.6em; border-radius:0.3em; font-weight:bold; font-size:0.75em; margin-right: 1em;">AIES'22</span>
+  </div>
+  <div>
+    <p style="margin: 0;"><strong>How Cognitive Biases Affect XAI-Assisted Decision-Making: A Systematic Review</strong><br>
+    Astrid Bertrand, Rafik Belloum, James R. Eagan, and Winston Maxwell.<br>
+    <em>AAAI/ACM Conference on AI, Ethics, and Society</em></p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
+  <div style="flex-shrink: 0;">
+    <span style="display:inline-block; background-color:#cccccc; color:#111111; padding:0.25em 0.6em; border-radius:0.3em; font-weight:bold; font-size:0.75em; margin-right: 1em;">JAISE</span>
+  </div>
+  <div>
+    <p style="margin: 0;"><strong>Caregiver Development of Activity-Supporting Services for Smart Homes</strong><br>
+    Rafik Belloum, Amel Yaddaden, Maxime Lussier, Nathalie Bier, and Charles Consel.<br>
+    <em>Journal of Ambient Intelligence and Smart Environments</em>, 13(6), 453–471 (2021)</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
+  <div style="flex-shrink: 0;">
+    <span style="display:inline-block; background-color:#cccccc; color:#111111; padding:0.25em 0.6em; border-radius:0.3em; font-weight:bold; font-size:0.75em; margin-right: 1em;">UIC'21</span>
+  </div>
+  <div>
+    <p style="margin: 0;"><strong>A Tooled Method for Developing Knowledge-Based Activity Recognizers</strong><br>
+    Rafik Belloum, Antoine Riche, Nic Volanschi, and Charles Consel.<br>
+    <em>IEEE SmartWorld/UIC/ATC/ScalCom/IoP/SCI</em> (2021)</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
+  <div style="flex-shrink: 0;">
+    <span style="display:inline-block; background-color:#cccccc; color:#111111; padding:0.25em 0.6em; border-radius:0.3em; font-weight:bold; font-size:0.75em; margin-right: 1em;">PETRA'20</span>
+  </div>
+  <div>
+    <p style="margin: 0;"><strong>A Tool-Based Methodology for Long-Term Activity Monitoring</strong><br>
+    Rafik Belloum, Charles Consel, and Nic Volanschi.<br>
+    <em>ACM International Conference on Pervasive Technologies Related to Assistive Environments</em> (2020)</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
+  <div style="flex-shrink: 0;">
+    <span style="display:inline-block; background-color:#cccccc; color:#111111; padding:0.25em 0.6em; border-radius:0.3em; font-weight:bold; font-size:0.75em; margin-right: 1em;">PerCom'20</span>
+  </div>
+  <div>
+    <p style="margin: 0;"><strong>End-User Development of Activity-Supporting Services for Smart Homes</strong><br>
+    Rafik Belloum and Charles Consel.<br>
+    <em>IEEE International Conference on Pervasive Computing and Communications Workshops</em> (2020)</p>
+  </div>
+</div>
