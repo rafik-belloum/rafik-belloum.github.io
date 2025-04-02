@@ -19,10 +19,13 @@ I follow a user-centered approach that combines need analysis, iterative design,
 Selected Publications
 ======
 
-<div class="pub-card">
-  <span class="pub-badge">CHI'23</span>  
-  <p><strong>On Selective, Mutable and Dialogic XAI : a Review of What Users Say about Different Types of Interactive Explanations</strong><br>
-  Astrid Bertrand, Tiphaine Viard, Rafik Belloum, and 2 more authors<br>
-  <em>ACM Conference on Human Factors in Computing Systems</em>
+<h2>Selected Publications</h2>
+
+<div style="margin-bottom: 1.5em;">
+  <span style="display:inline-block; background-color:#3792c6; color:white; padding:0.25em 0.6em; border-radius:0.3em; font-weight:bold; font-size:0.75em; margin-bottom:0.3em;">CHI'23</span>
+  <p>
+    <strong>On Selective, Mutable and Dialogic XAI : a Review of What Users Say about Different Types of Interactive Explanations</strong><br>
+    Astrid Bertrand, Tiphaine Viard, Rafik Belloum, and 2 more authors<br>
+    <em>ACM Conference on Human Factors in Computing Systems</em>
   </p>
 </div>
