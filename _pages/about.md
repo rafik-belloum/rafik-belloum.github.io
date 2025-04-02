@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: "Rafik Belloum"
 subtitle: "Associate Professor at Université Polytechnique Hauts-de-France · [LAMIH UMR CNRS 8201](https://www.uphf.fr/lamih)"
 permalink: /
