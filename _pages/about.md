@@ -1,11 +1,11 @@
 ---
-layout: home
-title: "Rafik Belloum"
-subtitle: "Associate Professor at Université Polytechnique Hauts-de-France · LAMIH UMR CNRS 8201"
 permalink: /
+title: "Rafik Belloum"
 author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
 ---
-
 
 Hi, I'm Rafik. I'm maître de conférences (~associate professor) in Computer Science at Université Polytechnique Hauts-de-France, and a member of the LAMIH laboratory (UMR CNRS 8201).
 
