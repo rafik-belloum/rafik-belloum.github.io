@@ -26,7 +26,7 @@ Selected Publications
   <div>
     <p style="margin: 0;">
       <strong>On Selective, Mutable and Dialogic XAI : a Review of What Users Say about Different Types of Interactive Explanations</strong><br>
-      Astrid Bertrand, Tiphaine Viard, Rafik Belloum, and 2 more authors<br>
+      Astrid Bertrand, Tiphaine Viard, Rafik Belloum, James R. Eagan, and Winston Maxwell.<br>
       <em>ACM Conference on Human Factors in Computing Systems</em>
     </p>
   </div>
