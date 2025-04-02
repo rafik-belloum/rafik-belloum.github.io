@@ -19,11 +19,10 @@ I follow a user-centered approach that combines need analysis, iterative design,
 Selected Publications
 ======
 
-{% for post in site.publications limit:4 %}
-<div class="publication-card">
-  <div class="pub-badge">{{ post.venue }}</div>
-  <p><strong>{{ post.title }}</strong><br/>
-  {{ post.authors }}<br/>
-  <em>{{ post.venue }}</em></p>
+<div class="pub-card">
+  <span class="pub-badge">CHI'23</span>  
+  <p><strong>On Selective, Mutable and Dialogic XAI : a Review of What Users Say about Different Types of Interactive Explanations</strong><br>
+  Astrid Bertrand, Tiphaine Viard, Rafik Belloum, and 2 more authors<br>
+  <em>ACM Conference on Human Factors in Computing Systems</em>
+  </p>
 </div>
-{% endfor %}
