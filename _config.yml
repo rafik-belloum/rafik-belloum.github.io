@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Rafik Belloum"
+title                    : "Rafik Belloum - Personal Website"
 title_separator          : "-"
 name                     : &name "Rafik Belloum"
-description              : &description "personal description"
-url                      : https://belloum.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+description              : &description "Maître de conférences in Computer Science · HCI · Explainable AI · UPHF / LAMIH"
+url                      : https://rafik-belloum.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "belloum/belloum.github.io"
+repository               : "rafik-belloum/rafik-belloum.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -45,7 +45,7 @@ author:
  # bitbucket        : # Username - Update with your username on the site
  # codepen          : # Username
  # dribbble         : # Username
-  github           : "https://github.com/belloum"
+  github           : "rafik-belloum"
  # kaggle           : # Username  
 #  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
