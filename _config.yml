@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Rafik Belloum - Personal Website"
+title                    : "Rafik Belloum"
 title_separator          : "-"
 name                     : &name "Rafik Belloum"
 description              : &description "Maître de conférences in Computer Science · HCI · Explainable AI · UPHF / LAMIH"
@@ -59,7 +59,7 @@ author:
  # keybase          : # Username
  # instagram        : # Username
  # lastfm           : # Username
-  linkedin         : "https://fr.linkedin.com/in/rafik-belloum-667771105"
+  linkedin         : "rafik belloum"
  # mastodon         : # URL
  # medium           : # URL
  # pinterest        : # Username
