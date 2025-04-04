@@ -18,17 +18,32 @@ You can find more details about my [research activities](/research/) and [teachi
 
 ### News
 
-<div style="margin-top: 1em; margin-bottom: 2em;">
-  <ul style="list-style: none; padding-left: 0;">
-    <li style="margin-bottom: 1em;">
-      <span style="font-weight: bold;">[Month Year]</span> Your news item goes here.
+<h2>News</h2>
+
+<div style="max-height: 300px; overflow-y: auto; padding-right: 1em;">
+  <ul style="list-style: none; padding-left: 0; margin: 0;">
+    <!-- <li style="margin-bottom: 1.2em;">
+      I’ll be presenting a paper at <a href="#">[Conference Name]</a>. More soon!
+    </li> 
+         <li style="margin-bottom: 1.2em;">
+      A new collaboration on <a href="#">[Project/Topic]</a> just started!
     </li>
-    <li style="margin-bottom: 1em;">
-      <span style="font-weight: bold;">[Month Year]</span> Another update or announcement here.
-    </li>
-   Coming soon.
+    <li style="margin-bottom: 1.2em;">
+      Excited to give a talk on <em>[Talk Topic]</em> at <a href="#">[Institution/Event]</a>.
+    </li>-->
+<li style="margin-bottom: 1.2em;">
+  Cezar de Souza Filho will present at the Doctoral Colloquium of <a href="https://facctconference.org/" target="_blank">ACM FAccT 2025</a>.
+</li>
+
+    <li style="margin-bottom: 1.2em;">
+  Our XAI4U workshop has been accepted at <a href="https://ihm2025.afihm.org/" target="_blank">IHM 2025</a> in Toulouse. Website and program coming soon.
+</li>
+    <!-- Add your own updates below -->
   </ul>
 </div>
+
+
+
 
 
 
