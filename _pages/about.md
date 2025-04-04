@@ -18,17 +18,17 @@ You can find more details about my [research activities](/research/) and [teachi
 
 ### News
 
-<div style="max-height: 6.5em; overflow-y: auto; padding-right: 1em; border-left: 4px solid #e0e0e0; padding-left: 1em; margin-top: 1em; line-height: 1.8em;">
+<div style="max-height: 7.2em; overflow-y: auto; padding-right: 1em; border-left: 4px solid #e0e0e0; padding-left: 1em; margin-top: 1em; line-height: 1.6em;">
   <ul style="list-style: none; padding-left: 0; margin: 0;">
-    <li style="margin-bottom: 0.6em;">
+    <li style="margin-bottom: 0.4em;">
       Cezar de Souza Filho will present at the Doctoral Colloquium of 
       <a href="https://facctconference.org/" target="_blank">ACM FAccT 2025</a>.
     </li>   
-    <li style="margin-bottom: 0.6em;">
+    <li style="margin-bottom: 0.4em;">
       Our <strong>XAI4U</strong> workshop has been accepted at 
       <a href="https://ihm2025.afihm.org/" target="_blank">IHM 2025</a> in Toulouse. Website and program coming soon.
     </li>
-    <li style="margin-bottom: 0.6em;">
+    <li>
       I’ll be presenting a paper at <a href="#">[Conference Name]</a>. More soon!
     </li>
   </ul>
