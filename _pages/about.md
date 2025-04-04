@@ -16,7 +16,19 @@ My research is in Human-Computer Interaction (HCI), with a focus on making intel
 
 You can find more details about my [research activities](/research/) and [teaching responsibilities](/teaching/).
 
+### News
 
+<div style="margin-top: 1em; margin-bottom: 2em;">
+  <ul style="list-style: none; padding-left: 0;">
+    <li style="margin-bottom: 1em;">
+      <span style="font-weight: bold;">[Month Year]</span> Your news item goes here.
+    </li>
+    <li style="margin-bottom: 1em;">
+      <span style="font-weight: bold;">[Month Year]</span> Another update or announcement here.
+    </li>
+   Coming soon.
+  </ul>
+</div>
 
 
 
