@@ -18,7 +18,7 @@ You can find more details about my [research activities](/research/) and [teachi
 
 ### News
 
-<div style="max-height: 280px; overflow-y: auto; padding-right: 1em; border-left: 4px solid #e0e0e0; padding-left: 1em; margin-top: 1em;">
+<div style="max-height: 200px; overflow-y: auto; padding-right: 1em; border-left: 4px solid #e0e0e0; padding-left: 1em; margin-top: 1em;">
   <ul style="list-style: none; padding-left: 0; margin: 0;">
   <li style="margin-bottom: 1em;">
      Honored to join the Program Committee of <a href="https://assets25.sigaccess.org/" target="_blank">ACM ASSETS 2025</a>.
