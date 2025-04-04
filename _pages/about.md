@@ -30,14 +30,10 @@ You can find more details about my [research activities](/research/) and [teachi
       <a href="https://ihm2025.afihm.org/" target="_blank">IHM 2025</a> in Toulouse. Website and program coming soon.
     </li>
 
-  
-
-    <!-- You can add more news items below -->
-    <!--
-    <li style="margin-bottom: 1.2em;">
+   <li style="margin-bottom: 1.2em;">
       I’ll be presenting a paper at <a href="#">[Conference Name]</a>. More soon!
     </li>
-    -->
+
   </ul>
 </div>
 
