@@ -20,11 +20,6 @@ You can find more details about my [research activities](/research/) and [teachi
 
 <div style="max-height: 280px; overflow-y: auto; padding-right: 1em; border-left: 4px solid #e0e0e0; padding-left: 1em; margin-top: 1em;">
   <ul style="list-style: none; padding-left: 0; margin: 0;">
-    
-  <li style="margin-bottom: 1em;">
-      Our PhD student Cezar de Souza Filho, will present his thesis work at the Doctoral Colloquium of
-      <a href="https://facctconference.org/" target="_blank">ACM FAccT 2025</a>.
-    </li>
   <li style="margin-bottom: 1em;">
      Honored to join the Program Committee of <a href="https://assets25.sigaccess.org/" target="_blank">ACM ASSETS 2025</a>.
     </li>
@@ -32,7 +27,6 @@ You can find more details about my [research activities](/research/) and [teachi
       Our <strong>XAI4U</strong> workshop has been accepted at
       <a href="https://ihm2025.afihm.org/" target="_blank">IHM 2025</a> in Toulouse. Website and program coming soon.
     </li>
-
   </ul>
 </div>
 
