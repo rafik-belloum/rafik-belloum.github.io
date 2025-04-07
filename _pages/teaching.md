@@ -9,13 +9,13 @@ author_profile: true
 
 At the **IUT of Université Polytechnique Hauts-de-France**, I currently teach and coordinate several modules within the Bachelor's degree in Computer Science (BUT):
 
-- Web Interface Development – Year 1 (24h TD)  
-- Web Development – Year 2 (24h TD) _(module coordinator since 2022)_  
-- Mobile Development – Year 2 (24h TD) _(module coordinator since 2022)_  
-- Development Quality – Year 2 (18h TD)  
+- Web Interface Development – Year 1 (24h ETD)  
+- Web Development – Year 2 (24h ETD) _(module coordinator since 2022)_  
+- Mobile Development – Year 2 (24h ETD) _(module coordinator since 2022)_  
+- Development Quality – Year 2 (18h ETD)  
 - Learning and Assessment Situations (SAE):  
-  - Year 2 (24h TD)  
-  - Year 3 (50h TD) _(coordinator since 2022)_
+  - Year 2 (24h ETD)  
+  - Year 3 (50h ETD) _(coordinator since 2022)_
 
 I also contribute to other teaching modules within the BUT program and supervise students enrolled in apprenticeship tracks and internships.
 
@@ -25,10 +25,10 @@ I also contribute to other teaching modules within the BUT program and supervise
 
 At **INSA Hauts-de-France**, in the **Master 2 IEAP – Engineering and Ergonomics of Physical Activity Product and Service Design**, I was responsible for:
 
-- Product Innovation and Ergonomics (12h TD)  
-- UX Design (30h TD)
+- Product Innovation and Ergonomics (12h ETD)  
+- UX Design (30h ETD)
 
 At **Télécom Paris**, I taught:
 
-- User-Centered Design (18h TD)  
-- Data Visualization (18h TD)
+- User-Centered Design (18h ETD)  
+- Data Visualization (18h ETD)
