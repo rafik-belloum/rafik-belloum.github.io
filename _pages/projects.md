@@ -5,6 +5,4 @@ permalink: /projects/
 author_profile: true
 ---
 
-### Projects
-
 Coming soon.
