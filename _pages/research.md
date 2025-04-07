@@ -7,24 +7,24 @@ author_profile: true
 
 ### Research Interests
 
-I study how interactive systems can be better designed to support people in their everyday lives — especially when these systems involve complex or intelligent behaviors.
+I explore how to build interactive systems that fit people's needs and contexts — especially when these systems involve complex or intelligent behaviors.
 
-I contribute with methodologies, tools, and interfaces that help users appropriate and make sense of these technologies, and support designers and developers in building intelligent systems that better fit users’ needs and context.
+I contribute methodologies, tools, and interfaces that help users appropriate and make sense of such technologies, while supporting designers and developers in creating systems that are better adapted to real-world use.
 
-To do so, I use methods that combine elements from human-computer interaction and software engineering — including iterative design, user studies (both qualitative and quantitative), systematic reviews, etc.
+To do so, I draw on methods from both human-computer interaction and software engineering — including iterative design, user studies (qualitative and quantitative), systematic reviews, etc.
 
-I’ve applied this approach in areas such as ambient assisted living, including smart home services for aging in place, and explainable AI, where I explore how interface design can help users interpret algorithmic decisions.
+I’ve applied this approach in areas such as ambient assisted living — with smart home services for aging in place — and explainable AI, where I examine how interface design can help users interpret algorithmic decisions.
 
 ---
 
 ### Ongoing PhD Supervision
 
-- [José Cezar de Souza Filho](https://scholar.google.com/citations?user=DiT4l1o) (2023–). Co-supervised (50%) with Káthia Marçal de Oliveira.
+- [José Cezar de Souza Filho](https://www.researchgate.net/profile/Jose-Cezar-De-Souza-Filho) (2023–). Co-supervised (50%) with Káthia Marçal de Oliveira.
 - [Juliette Deyts](https://scholar.google.com/citations?user=xbVz2g8AAAAJ) (2024–). Co-supervised (33%) with Hélène Sauzéon and Lucile Dupuy.
 
 ### Other Supervision / Thesis Committees
 
-- [Deepa Muralidhar](https://scholar.google.com/citations?user=W7Xc38UAAAAJ) (2022–2025) – Member of the PhD advisory committee.
+- [Deepa Muralidhar](https://provost.gsu.edu/2024/12/09/faculty-spotlight-deepa-muralidhar/) (2022–2025) – Member of the PhD advisory committee.
 
 ---
 
