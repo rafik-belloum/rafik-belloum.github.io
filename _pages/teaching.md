@@ -19,6 +19,8 @@ At the **IUT of Université Polytechnique Hauts-de-France**, I currently teach a
 
 I also contribute to other teaching modules within the BUT program and supervise students enrolled in apprenticeship tracks and internships.
 
+---
+
 ### Past Teaching
 
 At **INSA Hauts-de-France**, in the **Master 2 IEAP – Engineering and Ergonomics of Physical Activity Product and Service Design**, I was responsible for:
