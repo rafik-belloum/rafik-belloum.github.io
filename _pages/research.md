@@ -20,7 +20,7 @@ I’ve applied this approach in areas such as ambient assisted living — with s
 ### Ongoing PhD Supervision
 
 - [José Cezar de Souza Filho](https://www.researchgate.net/profile/Jose-Cezar-De-Souza-Filho) (2023–). Co-supervised (50%) with Káthia Marçal de Oliveira.
-- [Juliette Deyts](https://scholar.google.com/citations?user=xbVz2g8AAAAJ) (2024–). Co-supervised (33%) with Hélène Sauzéon and Lucile Dupuy.
+- [Juliette Deyts](https://fr.linkedin.com/in/juliette-deyts-87718012b) (2024–). Co-supervised (33%) with Hélène Sauzéon and Lucile Dupuy.
 
 ### Other Supervision / Thesis Committees
 
@@ -32,7 +32,7 @@ I’ve applied this approach in areas such as ambient assisted living — with s
 
 - **Program Committee Member**:
   - ACM ASSETS 2025
-  - ACM AIES 2023, 2024
+  - ACM AIES 2022
 
 - **Reviewer**:
   - CHI – ACM Conference on Human Factors in Computing Systems  
@@ -42,6 +42,7 @@ I’ve applied this approach in areas such as ambient assisted living — with s
   - IHM – French conference on Human–Computer Interaction  
   - *International Journal of Human–Computer Interaction (IJHCI)*  
   - *Universal Access in the Information Society (UAIS)*
+  - Etc.
 
 ---
 
