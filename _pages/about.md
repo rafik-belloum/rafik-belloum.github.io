@@ -34,7 +34,7 @@ You can find more details about my [research activities](/research/) and [teachi
 
   <div class="news-item">
     <div class="news-date">Jan 2025</div>
-    <div class="news-text">Excited to start co-supervising Juliette Deyts (PhD 2024–).</div>
+    <div class="news-text">test test est test test tes test test.</div>
   </div>
 
   <div class="news-item">
