@@ -18,16 +18,52 @@ You can find more details about my [research activities](/research/) and [teachi
 
 ### News
 
-<div style="max-height: 200px; overflow-y: auto; padding-right: 1em; border-left: 4px solid #e0e0e0; padding-left: 1em; margin-top: 1em;">
-  <ul style="list-style: none; padding-left: 0; margin: 0;">
-  <li style="margin-bottom: 1em;">
-     Honored to join the Program Committee of <a href="https://assets25.sigaccess.org/" target="_blank">ACM ASSETS 2025</a>.
-    </li>
-  <li style="margin-bottom: 1em;">
-      Our <strong>XAI4U</strong> workshop has been accepted at
-      <a href="https://ihm2025.afihm.org/" target="_blank">IHM 2025</a> in Toulouse. Website and program coming soon.
-    </li>
-  </ul>
+<style>
+.news-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  margin-top: 1em;
+}
+
+.news-item {
+  display: flex;
+  gap: 1em;
+}
+
+.news-date {
+  flex-shrink: 0;
+  width: 5em;
+  font-weight: bold;
+  color: #555;
+}
+
+.news-text {
+  flex-grow: 1;
+}
+</style>
+
+<div class="news-container">
+  <div class="news-item">
+    <div class="news-date">2025/06</div>
+    <div class="news-text">
+      <strong>Cezar de Souza Filho</strong> will present at the Doctoral Colloquium of <a href="https://facctconference.org/" target="_blank">ACM FAccT 2025</a>. I’m happy to be part of the supervision team.
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">2025/06</div>
+    <div class="news-text">
+      Our <strong>XAI4U</strong> workshop has been accepted at <a href="https://ihm2025.afihm.org/" target="_blank">IHM 2025</a> in Toulouse. Website and program coming soon.
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">2025/05</div>
+    <div class="news-text">
+      I joined the program committee of <strong>ACM ASSETS 2025</strong>.
+    </div>
+  </div>
 </div>
 
 
