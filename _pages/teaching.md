@@ -23,7 +23,7 @@ I also contribute to other teaching modules within the BUT program and supervise
 
 ### Past Teaching
 
-At **INSA Hauts-de-France**, in the **Master 2 IEAP – Engineering and Ergonomics of Physical Activity Product and Service Design**, I was responsible for:
+At **INSA Hauts-de-France**, in the in the [IEAP Master 2](https://formations.uphf.fr/fr/formations/master-master/master-staps-ingenierie-et-ergonomie-de-l-activite-physique-KZZQINR2.html), I was responsible for:
 
 - Product Innovation and Ergonomics (12h ETD)  
 - UX Design (30h ETD)
