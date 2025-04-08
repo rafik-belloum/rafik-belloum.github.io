@@ -1,0 +1,25 @@
+.news-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  margin-top: 1em;
+}
+
+.news-item {
+  display: flex;
+  gap: 1em;
+  border-left: 3px solid #ccc;
+  padding-left: 1em;
+}
+
+.news-date {
+  flex-shrink: 0;
+  width: 5em;
+  font-weight: bold;
+  color: var(--text-muted-color, #555);
+}
+
+.news-text {
+  flex-grow: 1;
+  color: inherit;
+}
