@@ -16,16 +16,17 @@ My research is in Human-Computer Interaction (HCI), with a focus on making intel
 
 You can find more details about my [research activities](/research/) and [teaching responsibilities](/teaching/).
 
-### News
 
-<div class="news-container">
-  <ul style="list-style: none; padding-left: 0; margin: 0;">
-    <li style="margin-bottom: 1.2em;"><strong>Apr 2025</strong> — Cezar de Souza Filho will present at the Doctoral Colloquium of <a href="https://facctconference.org/">ACM FAccT 2025</a>.</li>
-    <li style="margin-bottom: 1.2em;"><strong>Mar 2025</strong> — Our <strong>XAI4U</strong> workshop has been accepted at <a href="https://ihm2025.afihm.org/">IHM 2025</a> in Toulouse.</li>
-    <li style="margin-bottom: 1.2em;"><strong>Feb 2025</strong> — I joined the PC of <strong>ACM ASSETS 2025</strong>.</li>
-   <li style="margin-bottom: 1.2em;"><strong>Dec 2024</strong> — New article accepted at the <strong>VL/HCC 2024</strong> conference.</li>
-    <li style="margin-bottom: 1.2em;"><strong>Dec 2024</strong> — New article accepted at the <strong>VL/HCC 2024</strong> conference.</li>
+<div class="news-section">
+  <h3>News</h3>
+  <ul class="news-list">
+    <li><strong>Apr 2025</strong> — Cezar de Souza Filho will present at the Doctoral Colloquium of <a href="#">ACM FAccT 2025</a>.</li>
+    <li><strong>Mar 2025</strong> — Our <strong>XAI4U</strong> workshop has been accepted at <a href="#">IHM 2025</a> in Toulouse.</li>
+    <li><strong>Feb 2025</strong> — I joined the PC of <strong>ACM ASSETS 2025</strong>.</li>
+    <li class="more-news"><strong>Jan 2025</strong> — Excited to start co-supervising Juliette Deyts (PhD 2024–).</li>
+    <li class="more-news"><strong>Dec 2024</strong> — New article accepted at the <strong>VL/HCC 2024</strong> conference.</li>
   </ul>
+  <button id="toggle-news" class="see-more-btn">See more</button>
 </div>
 
 
