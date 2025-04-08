@@ -22,32 +22,35 @@ You can find more details about my [research activities](/research/) and [teachi
   <ul id="news-list" style="list-style: none; padding-left: 0; margin: 0;">
     <li style="margin-bottom: 0.7em;">Our <strong>XAI4U</strong> workshop has been accepted at IHM 2025 (Toulouse). Program and website coming soon.</li>
     <li style="margin-bottom: 0.7em;">Cezar Filho will present at the Doctoral Colloquium of ACM FAccT 2025.</li>
-    <li class="news-hidden" style="margin-bottom: 0.7em;">I joined the Program Committee of ACM ASSETS 2025.</li>
-    <li class="news-hidden" style="margin-bottom: 0.7em;">New study on progressive disclosure and transparency published at CHIRA.</li>
-    <li class="news-hidden" style="margin-bottom: 0.7em;">Systematic review on trust in XAI under submission.</li>
+
+  <li id="extra-news" style="overflow: hidden; height: 0; padding: 0; margin: 0; border: none; list-style: none; transition: height 0.4s ease;">
+      <ul style="list-style: none; padding-left: 0; margin: 0;">
+        <li style="margin-bottom: 0.7em;">I joined the Program Committee of ACM ASSETS 2025.</li>
+        <li style="margin-bottom: 0.7em;">New study on progressive disclosure and transparency published at CHIRA.</li>
+        <li style="margin-bottom: 0.7em;">Systematic review on trust in XAI under submission.</li>
+      </ul>
+    </li>
   </ul>
+
   <a id="toggle-news" style="cursor: pointer; font-size: 0.85em; display: inline-block; margin-top: 0.3em; color: #555; text-decoration: underline;">See more</a>
 </div>
 
 <script>
-  document.addEventListener('DOMContentLoaded', function () {
+  document.addEventListener('DOMContentLoaded', () => {
     const toggleBtn = document.getElementById('toggle-news');
-    const hiddenItems = document.querySelectorAll('.news-hidden');
+    const extraNews = document.getElementById('extra-news');
     let expanded = false;
-
-    const updateView = () => {
-      hiddenItems.forEach((item) => {
-        item.style.display = expanded ? 'list-item' : 'none';
-      });
-      toggleBtn.textContent = expanded ? 'See less' : 'See more';
-    };
 
     toggleBtn.addEventListener('click', () => {
       expanded = !expanded;
-      updateView();
+      if (expanded) {
+        extraNews.style.height = extraNews.scrollHeight + "px";
+        toggleBtn.textContent = "See less";
+      } else {
+        extraNews.style.height = "0";
+        toggleBtn.textContent = "See more";
+      }
     });
-
-    updateView(); // Init
   });
 </script>
 
