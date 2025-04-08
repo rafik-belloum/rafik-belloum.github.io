@@ -20,36 +20,34 @@ You can find more details about my [research activities](/research/) and [teachi
 
 <div id="news-box" style="margin-top: 1em; border-left: 4px solid #ccc; padding-left: 1em; font-size: 0.95em;">
   <ul id="news-list" style="list-style: none; padding-left: 0; margin: 0;">
-    <li style="margin-bottom: 0.7em;">Our <strong>XAI4U</strong> workshop has been accepted at IHM 2025 (Toulouse). Program and website coming soon.</li>
-    <li style="margin-bottom: 0.7em;">Cezar Filho will present at the Doctoral Colloquium of ACM FAccT 2025.</li>
-
-  <li id="extra-news" style="overflow: hidden; height: 0; padding: 0; margin: 0; border: none; list-style: none; transition: height 0.4s ease;">
-      <ul style="list-style: none; padding-left: 0; margin: 0;">
-        <li style="margin-bottom: 0.7em;">I joined the Program Committee of ACM ASSETS 2025.</li>
-        <li style="margin-bottom: 0.7em;">New study on progressive disclosure and transparency published at CHIRA.</li>
-        <li style="margin-bottom: 0.7em;">Systematic review on trust in XAI under submission.</li>
-      </ul>
+    <li style="margin-bottom: 0.7em;">
+      Our <strong>XAI4U</strong> workshop has been accepted at <a href="https://ihm2025.afihm.org/" target="_blank">IHM 2025</a> (Toulouse). Program and website coming soon.
     </li>
+    <li style="margin-bottom: 0.7em;">
+      José Cezar Filho will present our work at <a href="https://conf.researchr.org/home/vlhcc-2024" target="_blank">VL/HCC 2024</a>.
+    </li>
+    <div id="extra-news" style="overflow: hidden; height: 0; transition: height 0.4s ease;">
+      <li style="margin-bottom: 0.7em;">
+        Our CHI 2023 paper <a href="https://chi2023.acm.org/" target="_blank">received an Honorable Mention</a>.
+      </li>
+    </div>
   </ul>
-
-  <a id="toggle-news" style="cursor: pointer; font-size: 0.85em; display: inline-block; margin-top: 0.3em; color: #555; text-decoration: underline;">See more</a>
+  <a id="toggle-news" style="cursor: pointer; font-size: 0.85em; display: inline-block; margin-top: 0.3em; color: #555; text-decoration: underline;">
+    See more <span id="chevron">↧</span>
+  </a>
 </div>
 
 <script>
   document.addEventListener('DOMContentLoaded', () => {
     const toggleBtn = document.getElementById('toggle-news');
     const extraNews = document.getElementById('extra-news');
+    const chevron = document.getElementById('chevron');
     let expanded = false;
 
     toggleBtn.addEventListener('click', () => {
       expanded = !expanded;
-      if (expanded) {
-        extraNews.style.height = extraNews.scrollHeight + "px";
-        toggleBtn.textContent = "See less";
-      } else {
-        extraNews.style.height = "0";
-        toggleBtn.textContent = "See more";
-      }
+      extraNews.style.height = expanded ? extraNews.scrollHeight + "px" : "0";
+      toggleBtn.innerHTML = expanded ? 'See less <span id="chevron">↥</span>' : 'See more <span id="chevron">↧</span>';
     });
   });
 </script>
