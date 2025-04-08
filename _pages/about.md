@@ -16,12 +16,6 @@ My research is in Human-Computer Interaction (HCI), with a focus on making intel
 
 You can find more details about my [research activities](/research/) and [teaching responsibilities](/teaching/).
 
-<div class="news-list">
-  <div class="news-item">
-    <div class="news-date">Apr 2025</div>
-    <div class="news-text">Cezar de Souza Filho will present at the Doctoral Colloquium of <a href="https://facctconference.org/" target="_blank">ACM FAccT 2025</a>.</div>
-  </div>
-
 ### News
 
 <div class="news-container">
@@ -29,7 +23,7 @@ You can find more details about my [research activities](/research/) and [teachi
     <li style="margin-bottom: 1.2em;"><strong>Apr 2025</strong> — Cezar de Souza Filho will present at the Doctoral Colloquium of <a href="https://facctconference.org/">ACM FAccT 2025</a>.</li>
     <li style="margin-bottom: 1.2em;"><strong>Mar 2025</strong> — Our <strong>XAI4U</strong> workshop has been accepted at <a href="https://ihm2025.afihm.org/">IHM 2025</a> in Toulouse.</li>
     <li style="margin-bottom: 1.2em;"><strong>Feb 2025</strong> — I joined the PC of <strong>ACM ASSETS 2025</strong>.</li>
-    <li style="margin-bottom: 1.2em;"><strong>Jan 2025</strong> — TEST tes tes tstststts ststtststs tstststs tsttststs tstts ststts</li>
+    <li style="margin-bottom: 1.2em;"><strong>Jan 2025</strong> — Excited to start co-supervising <a href="https://fr.linkedin.com/in/juliette-deyts-87718012b">Juliette Deyts</a> (PhD 2024–).</li>
     <li style="margin-bottom: 1.2em;"><strong>Dec 2024</strong> — New article accepted at the <strong>VL/HCC 2024</strong> conference.</li>
   </ul>
 </div>
