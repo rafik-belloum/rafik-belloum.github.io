@@ -16,53 +16,30 @@ My research is in Human-Computer Interaction (HCI), with a focus on making intel
 
 You can find more details about my [research activities](/research/) and [teaching responsibilities](/teaching/).
 
-### News
-
-<style>
-.news-container {
-  display: flex;
-  flex-direction: column;
-  gap: 1em;
-  margin-top: 1em;
-}
-
-.news-item {
-  display: flex;
-  gap: 1em;
-}
-
-.news-date {
-  flex-shrink: 0;
-  width: 5em;
-  font-weight: bold;
-  color: #555;
-}
-
-.news-text {
-  flex-grow: 1;
-}
-</style>
-
-<div class="news-container">
+<div class="news-list">
   <div class="news-item">
-    <div class="news-date">2025/06</div>
-    <div class="news-text">
-      <strong>Cezar de Souza Filho</strong> will present at the Doctoral Colloquium of <a href="https://facctconference.org/" target="_blank">ACM FAccT 2025</a>. I’m happy to be part of the supervision team.
-    </div>
+    <div class="news-date">Apr 2025</div>
+    <div class="news-text">Cezar de Souza Filho will present at the Doctoral Colloquium of <a href="https://facctconference.org/" target="_blank">ACM FAccT 2025</a>.</div>
   </div>
 
   <div class="news-item">
-    <div class="news-date">2025/06</div>
-    <div class="news-text">
-      Our <strong>XAI4U</strong> workshop has been accepted at <a href="https://ihm2025.afihm.org/" target="_blank">IHM 2025</a> in Toulouse. Website and program coming soon.
-    </div>
+    <div class="news-date">Mar 2025</div>
+    <div class="news-text">Our <strong>XAI4U</strong> workshop has been accepted at <a href="https://ihm2025.afihm.org/" target="_blank">IHM 2025</a> in Toulouse.</div>
   </div>
 
   <div class="news-item">
-    <div class="news-date">2025/05</div>
-    <div class="news-text">
-      I joined the program committee of <strong>ACM ASSETS 2025</strong>.
-    </div>
+    <div class="news-date">Feb 2025</div>
+    <div class="news-text">I joined the PC of <strong>ACM ASSETS 2025</strong>.</div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">Jan 2025</div>
+    <div class="news-text">Excited to start co-supervising Juliette Deyts (PhD 2024–).</div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">Dec 2024</div>
+    <div class="news-text">New article accepted at the <strong>VL/HCC 2024</strong> conference.</div>
   </div>
 </div>
 
