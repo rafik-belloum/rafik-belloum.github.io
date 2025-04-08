@@ -17,34 +17,37 @@ My research is in Human-Computer Interaction (HCI), with a focus on making intel
 You can find more details about my [research activities](/research/) and [teaching responsibilities](/teaching/).
 
 
-<div class="news-section">
-  <h3>News</h3>
-  <ul class="news-list">
-    <li><strong>Apr 2025</strong> — Cezar de Souza Filho will present at the Doctoral Colloquium of <a href="#">ACM FAccT 2025</a>.</li>
-    <li><strong>Mar 2025</strong> — Our <strong>XAI4U</strong> workshop has been accepted at <a href="#">IHM 2025</a> in Toulouse.</li>
-    <li><strong>Feb 2025</strong> — I joined the PC of <strong>ACM ASSETS 2025</strong>.</li>
-    <li class="more-news"><strong>Jan 2025</strong> — Excited to start co-supervising Juliette Deyts (PhD 2024–).</li>
-    <li class="more-news"><strong>Dec 2024</strong> — New article accepted at the <strong>VL/HCC 2024</strong> conference.</li>
-  </ul>
-  <button id="toggle-news" class="see-more-btn">See more</button>
-</div>
+### News
 
+<div id="news-box" style="margin-top: 1em; border-left: 4px solid #ccc; padding-left: 1em; font-size: 0.95em;">
+  <ul id="news-list" style="list-style: none; padding-left: 0; margin: 0;">
+    <li style="margin-bottom: 0.7em;"> Our <strong>XAI4U</strong> workshop has been accepted at IHM 2025 (Toulouse). Program and website coming soon.</li>
+    <li style="margin-bottom: 0.7em;"> Cezar Filho will present at the Doctoral Colloquium of ACM FAccT 2025.</li>
+    <li class="news-hidden" style="margin-bottom: 0.7em;"> I joined the Program Committee of ACM ASSETS 2025.</li>
+    <li class="news-hidden" style="margin-bottom: 0.7em;"> New study on progressive disclosure and transparency published at CHIRA.</li>
+    <li class="news-hidden" style="margin-bottom: 0.7em;"> Systematic review on trust in XAI under submission.</li>
+  </ul>
+  <a id="toggle-news" style="cursor: pointer; font-size: 0.85em; display: inline-block; margin-top: 0.3em; color: #555; text-decoration: underline;">See more</a>
+</div>
 <script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const toggleBtn = document.getElementById("toggle-news");
-    const hiddenNews = document.querySelectorAll(".more-news");
+  document.addEventListener('DOMContentLoaded', function () {
+    const toggleBtn = document.getElementById('toggle-news');
+    const hiddenItems = document.querySelectorAll('.news-hidden');
     let expanded = false;
 
-    if (toggleBtn) {
-      toggleBtn.addEventListener("click", function () {
-        expanded = !expanded;
-        hiddenNews.forEach(item => {
-          item.style.display = expanded ? "list-item" : "none";
-          item.style.opacity = expanded ? 1 : 0;
-        });
-        toggleBtn.textContent = expanded ? "See less" : "See more";
+  function updateView() {
+      hiddenItems.forEach(item => {
+        item.style.display = expanded ? 'list-item' : 'none';
       });
+      toggleBtn.textContent = expanded ? 'See less' : 'See more';
     }
+
+  toggleBtn.addEventListener('click', function () {
+      expanded = !expanded;
+      updateView();
+    });
+
+   updateView(); // Initialize
   });
 </script>
 
