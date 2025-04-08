@@ -29,6 +29,24 @@ You can find more details about my [research activities](/research/) and [teachi
   <button id="toggle-news" class="see-more-btn">See more</button>
 </div>
 
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const toggleBtn = document.getElementById("toggle-news");
+    const hiddenNews = document.querySelectorAll(".more-news");
+    let expanded = false;
+
+    if (toggleBtn) {
+      toggleBtn.addEventListener("click", function () {
+        expanded = !expanded;
+        hiddenNews.forEach(item => {
+          item.style.display = expanded ? "list-item" : "none";
+          item.style.opacity = expanded ? 1 : 0;
+        });
+        toggleBtn.textContent = expanded ? "See less" : "See more";
+      });
+    }
+  });
+</script>
 
 
 
