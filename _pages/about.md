@@ -28,7 +28,7 @@ You can find more details about my [research activities](/research/) and [teachi
     </li>
     <div id="extra-news" style="overflow: hidden; height: 0; transition: height 0.4s ease;">
       <li style="margin-bottom: 0.7em;">
-        Our <a href="https://chi2023.acm.org/" target="_blank">CHI</a> paper received an Honorable Mention.
+        Our <a href="https://chi2023.acm.org/" target="_blank">CHI</a> paper received an Honorable Mention (Top 5%).
       </li>
     </div>
   </ul>
