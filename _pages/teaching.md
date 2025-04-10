@@ -19,7 +19,7 @@ At the **IUT of Université Polytechnique Hauts-de-France**, I currently teach a
 
 I also contribute to other teaching modules within the BUT program and supervise students enrolled in apprenticeship tracks and internships.
 
-At the **EUNICE Alliance – Master IT4SSM** ([Information Technology for Smart and Sustainable Mobility](https://formations.uphf.fr/fr/formations/master-master/master-informatique-KZZQ4B8O/information-technology-for-smart-and-sustainable-mobility-it4ssm-eunice-alliance-LS4R6Q1G.html)), an international hybrid program involving 7 partner countries, I teach:
+At the **EUNICE Alliance – Master IT4SSM** of the UPHF ([Information Technology for Smart and Sustainable Mobility](https://formations.uphf.fr/fr/formations/master-master/master-informatique-KZZQ4B8O/information-technology-for-smart-and-sustainable-mobility-it4ssm-eunice-alliance-LS4R6Q1G.html)), an international hybrid program involving 7 partner countries, I teach:
 
 - Human–Computer Interaction for Sustainable and Mobile Applications (15h ETD)
 
