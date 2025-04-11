@@ -20,7 +20,7 @@ I’ve applied this approach in areas such as ambient assisted living, with smar
 ### Ongoing PhD Supervision
 
 - [José Cezar de Souza Filho](https://www.researchgate.net/profile/Jose-Cezar-De-Souza-Filho) (2023–). Co-supervised (50%) with Káthia Marçal de Oliveira.
-- [Juliette Deyts](https://fr.linkedin.com/in/juliette-deyts-87718012b) (2024–). Co-supervised (33%) with Hélène Sauzéon and Lucile Dupuy.
+- Juliette Deyts (2024–). Co-supervised (33%) with Hélène Sauzéon and Lucile Dupuy.
 
 ### Other Supervision / Thesis Committees
 
