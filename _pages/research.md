@@ -7,13 +7,13 @@ author_profile: true
 
 ### Research Interests
 
-I explore how to build interactive systems that fit people's needs and contexts — especially when these systems involve complex or intelligent behaviors.
+I explore how to build interactive systems that fit people's needs and contexts, especially when these systems involve complex or intelligent behaviors.
 
-I contribute methodologies, tools, and interfaces that help users appropriate and make sense of such technologies, while supporting designers and developers in creating systems that are better adapted to real-world use.
+I contribute methodologies, tools, and interfaces based on a human-centered approach that help users appropriate and make sense of such technologies, while supporting designers and developers in creating systems that are better adapted to real-world use.
 
-To do so, I draw on methods from both human-computer interaction and software engineering — including iterative design, user studies (qualitative and quantitative), systematic reviews, etc.
+To do so, I draw on methods from both human-computer interaction and software engineering: iterative design, user studies (qualitative and quantitative), systematic reviews, etc.
 
-I’ve applied this approach in areas such as ambient assisted living — with smart home services for aging in place — and explainable AI, where I examine how interface design can help users interpret algorithmic decisions.
+I’ve applied this approach in areas such as ambient assisted living, with smart home services for aging in place; and explainable AI, where I examine how interface design can help users interpret algorithmic decisions.
 
 ---
 
