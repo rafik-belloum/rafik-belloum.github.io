@@ -32,7 +32,7 @@ At **INSA Hauts-de-France**, in the [IEAP Master 2](https://formations.uphf.fr/f
 - Product Innovation and Ergonomics (12h ETD)  
 - UX Design (30h ETD)
 
-At **Télécom Paris**, as part of the Master's in 3D and Interactive Systems, I taught:
+At **Télécom Paris**, as part of the [Master's in 3D and Interactive Systems](https://perso.telecom-paristech.fr/elc/igr/), I taught:
 
 - User-Centered Design (18h ETD)  
 - Data Visualization (18h ETD)
