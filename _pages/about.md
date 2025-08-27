@@ -21,7 +21,8 @@ You can find more details about my [research activities](/research/) and [teachi
 <div id="news-box" style="margin-top: 1em; border-left: 4px solid #ccc; padding-left: 1em; font-size: 0.95em;">
   <ul id="news-list" style="list-style: none; padding-left: 0; margin: 0;">
     <li style="margin-bottom: 0.7em;">
-      Our XAI4U workshop has been accepted at <a href="https://ihm2025.afihm.org/" target="_blank">IHM 2025</a> (Toulouse). Program coming soon.
+      Our <a href="https://sites.google.com/view/xai4u-ihm25/" target="_blank">XAI4U workshop</a> will take place at 
+  <a href="https://ihm2025.afihm.org/" target="_blank">IHM 2025</a> (Toulouse). Program available online.
     </li>
     <li style="margin-bottom: 0.7em;">
       José Cezar Filho will present our work at <a href="https://conf.researchr.org/home/vlhcc-2024" target="_blank">VL/HCC 2024</a>.
