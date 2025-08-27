@@ -33,15 +33,19 @@ I’ve applied this approach in areas such as ambient assisted living (helping a
 - **Program Committee Member**:
   - ACM ASSETS 2025
   - ACM AIES 2022
+  - ACM IUI 2026
 
 - **Reviewer**:
   - CHI – ACM Conference on Human Factors in Computing Systems  
-  - EICS – ACM Symposium on Engineering Interactive Computing Systems  
+  - IUI – ACM Conference on Intelligent User Interfaces  
   - INTERACT – IFIP Conference on Human–Computer Interaction  
+  - EICS – ACM Symposium on Engineering Interactive Computing Systems  
   - AIES – AAAI/ACM Conference on AI, Ethics, and Society  
+  - ASSETS – ACM SIGACCESS Conference on Computers and Accessibility  
   - IHM – French conference on Human–Computer Interaction  
+  - alt.VIS – Workshop on Alternative Topics in Visualization (IEEE VIS)  
   - *International Journal of Human–Computer Interaction (IJHCI)*  
-  - *Universal Access in the Information Society (UAIS)*
+  - *Universal Access in the Information Society (UAIS)*  
   - Etc.
 
 ---
