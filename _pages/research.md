@@ -9,7 +9,11 @@ author_profile: true
 
 I design and evaluate interactive systems that adapt to people’s needs, abilities, and contexts. I am particularly interested in intelligent and data-driven systems, where considering human factors is essential to ensure usability, foster trust, and enable effective interaction.
 
-Through interdisciplinary collaborations combining computer science with psychology and cognitive ergonomics, I contribute user-centered methods and develop tool support to address both technical and cognitive challenges, with software engineering techniques providing a complementary foundation. This work spans domains such as explainable AI in healthcare, smart home technologies for aging in place, and visualization tools to support decision-making.
+Through interdisciplinary collaborations combining computer science with psychology and cognitive ergonomics, I contribute user-centered methods and develop tool support to address both technical and cognitive challenges, with software engineering techniques providing a complementary foundation. 
+
+I have contributed to projects in healthcare and smart home technologies supporting older adults aging in place, often exploring visualization, explainability, and decision support.
+
+<!--This work spans domains such as explainable AI in healthcare, smart home technologies for aging in place, and visualization tools to support decision-making.-->
 
 The ultimate goal of my research is to support the design and use of intelligent systems in real-world contexts, ensuring they remain usable, transparent, and beneficial for the people who rely on them.
 
