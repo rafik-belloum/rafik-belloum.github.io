@@ -21,7 +21,8 @@ I also contribute to other teaching modules within the BUT program and supervise
 
 At the **EUNICE Alliance – Master IT4SSM** ([Information Technology for Smart and Sustainable Mobility](https://formations.uphf.fr/fr/formations/master-master/master-informatique-KZZQ4B8O/information-technology-for-smart-and-sustainable-mobility-it4ssm-eunice-alliance-LS4R6Q1G.html)), an international hybrid program involving 7 partner countries, I teach:
 
-- Human–Computer Interaction for Sustainable and Mobile Applications (15h ETD)
+- **Human–Computer Interaction for Sustainable and Mobile Applications** (15h ETD)  
+  *This course introduces user-centered design principles applied to sustainable and intelligent systems. It also addresses the role of AI in promoting transparency, explainability, and ethical interaction within digital societies.*
 
 ---
 
