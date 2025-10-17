@@ -28,7 +28,7 @@ At the **EUNICE Alliance – Master IT4SSM** ([Information Technology for Smart 
 
 ### Past Teaching
 
-At **INSA Hauts-de-France**, in the [IEAP Master 2](https://formations.uphf.fr/fr/formations/master-master/master-staps-ingenierie-et-ergonomie-de-l-activite-physique-KZZQINR2.html), I was responsible for:
+At **INSA Hauts-de-France**, in the [IEAP Master 2](https://formations.uphf.fr/fr/formations/master-master/master-staps-ingenierie-et-ergonomie-de-l-activite-physique-KZZQINR2.html) Engineering and Ergonomics, I was responsible for:
 
 - Product Innovation and Ergonomics (12h ETD)  
 - UX Design (30h ETD)
