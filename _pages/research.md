@@ -7,7 +7,7 @@ author_profile: true
 
 ### Research Interests
 
-I design and evaluate interactive systems that adapt to people’s needs, abilities, and contexts. I am particularly interested in intelligent and data-driven systems, where considering human factors is essential to ensure usability, foster trust, and enable effective interaction.
+I design, develop and evaluate interactive systems that adapt to people’s needs, abilities, and contexts. I am particularly interested in intelligent and data-driven systems, where considering human factors is essential to ensure usability, foster trust, and enable effective interaction.
 
 Through interdisciplinary collaborations combining computer science with psychology and cognitive ergonomics, I contribute user-centered methods and develop tool support to address both technical and cognitive challenges, with software engineering techniques providing a complementary foundation. 
 
