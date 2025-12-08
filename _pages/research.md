@@ -37,7 +37,7 @@ I have established collaborations with cognitive psychology and gerontology team
 
 ### Past Supervision 
 
-- [Deepa Muralidhar](https://provost.gsu.edu/2024/12/09/faculty-spotlight-deepa-muralidhar/)(PhD, 2022–2025)
+- [Deepa Muralidhar](https://provost.gsu.edu/2024/12/09/faculty-spotlight-deepa-muralidhar/) (PhD, 2022–2025)
 
 ---
 
