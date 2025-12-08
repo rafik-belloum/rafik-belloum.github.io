@@ -9,10 +9,10 @@ author_profile: true
 
 At the **IUT of Université Polytechnique Hauts-de-France**, I currently teach and coordinate several modules within the Bachelor's degree in Computer Science (BUT):
 
-- Web Interface Development – Year 1 (24h ETD)  
-- Web Development – Year 2 (24h ETD) _(module coordinator since 2022)_  
-- Mobile Development – Year 2 (24h ETD) _(module coordinator since 2022)_  
-- Development Quality – Year 2 (18h ETD)  
+- Web Interface Development with Accessibility Principles - Year 1 (24h ETD)  
+- Web Development - Year 2 (24h ETD) _(module coordinator since 2022)_  
+- Mobile Development - Year 2 (24h ETD) _(module coordinator since 2022)_  
+- Development Quality - Year 2 (18h ETD)  
 - Learning and Assessment Situations (SAE):  
   - Year 2 (24h ETD)  
   - Year 3 (50h ETD) _(coordinator since 2022)_
