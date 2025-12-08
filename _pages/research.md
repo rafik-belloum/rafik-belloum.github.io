@@ -32,12 +32,12 @@ I have established collaborations with cognitive psychology and gerontology team
 
 ### Ongoing PhD Supervision
 
-- [José Cezar de Souza Filho](https://www.researchgate.net/profile/Jose-Cezar-De-Souza-Filho) (2023–). Co-supervised (50%) with Káthia Marçal de Oliveira.
-- Juliette Deyts (2024–). Co-supervised (33%) with Hélène Sauzéon and Lucile Dupuy.
+- [José Cezar de Souza Filho](https://www.researchgate.net/profile/Jose-Cezar-De-Souza-Filho) (2023-). Co-supervised (50%) with Káthia Marçal de Oliveira.
+- Juliette Deyts (2024-). Co-supervised (33%) with Hélène Sauzéon and Lucile Dupuy.
 
-### Other Supervision / Thesis Committees
+### Past Supervision 
 
-- [Deepa Muralidhar](https://provost.gsu.edu/2024/12/09/faculty-spotlight-deepa-muralidhar/) (2022–2025) – Member of the PhD advisory committee.
+- [Deepa Muralidhar](https://provost.gsu.edu/2024/12/09/faculty-spotlight-deepa-muralidhar/)(PhD, 2022–2025)
 
 ---
 
