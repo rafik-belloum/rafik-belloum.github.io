@@ -44,7 +44,7 @@ I have established collaborations with cognitive psychology and gerontology team
 ### Academic Service
 
 - **Program Committee Member**:
-  - ACM ASSETS 2025
+  - ACM ASSETS 2025, 2026
   - ACM AIES 2022
   - ACM IUI 2026
 
@@ -54,7 +54,8 @@ I have established collaborations with cognitive psychology and gerontology team
   - INTERACT – IFIP Conference on Human–Computer Interaction  
   - EICS – ACM Symposium on Engineering Interactive Computing Systems  
   - AIES – AAAI/ACM Conference on AI, Ethics, and Society  
-  - ASSETS – ACM SIGACCESS Conference on Computers and Accessibility  
+  - ASSETS – ACM SIGACCESS Conference on Computers and Accessibility
+  - FAccT - ACM Conference on Fairness, Accountability, and Transparency
   - IHM – French conference on Human–Computer Interaction  
   - alt.VIS – Workshop on Alternative Topics in Visualization (IEEE VIS)  
   - *International Journal of Human–Computer Interaction (IJHCI)*  
