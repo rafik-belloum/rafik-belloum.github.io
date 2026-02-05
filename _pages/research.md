@@ -58,7 +58,8 @@ I have established collaborations with cognitive psychology and gerontology team
   - FAccT - ACM Conference on Fairness, Accountability, and Transparency
   - IHM – French conference on Human–Computer Interaction  
   - alt.VIS – Workshop on Alternative Topics in Visualization (IEEE VIS)  
-  - *International Journal of Human–Computer Interaction (IJHCI)*  
+  - *International Journal of Human–Computer Interaction (IJHCI)*
+  - *International Journal of Human–Computer Studies (IJHCS)*
   - *Universal Access in the Information Society (UAIS)*  
   - Etc.
 
