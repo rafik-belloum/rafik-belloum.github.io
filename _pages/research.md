@@ -7,15 +7,15 @@ author_profile: true
 
 ### Research Interests
 
-I design, develop and evaluate interactive systems that adapt to people’s needs, abilities, and contexts. I am particularly interested in intelligent and data-driven systems, where considering human factors is essential to ensure usability, foster trust, and enable effective interaction.
+I design, develop, and evaluate interactive systems that adapt to people’s needs, abilities, and contexts. I am particularly interested in intelligent and data-driven systems, where considering human factors is essential to ensure usability, foster trust, and enable effective interaction.
 <!--Through an interdisciplinary approach combining computer science with psychology and cognitive ergonomics, I contribute user-centered methods and develop tool support to address both technical and cognitive challenges, with software engineering techniques providing a complementary foundation.-->
 
 Through an interdisciplinary approach combining computer science, psychology, and cognitive science, I contribute user-centered methods and develop tool support to address both technical and cognitive challenges, with software engineering techniques providing a complementary foundation.
 
-I have contributed to projects in healthcare and ambient assisted living technologies supporting older adults aging in place, exploring visualization and explainable AI for decision support.
+I have contributed to projects in healthcare and ambient assisted living technologies supporting older adults aging in place, exploring visualization and explainable AI to support decision making.
 
 <!--This work spans domains such as explainable AI in healthcare, smart home technologies for aging in place, and visualization tools to support decision-making.-->
-The ultimate goal of my research is to support the design and use of intelligent systems in real-world contexts, ensuring they remain usable, and transparent for the people who rely on them.
+The ultimate goal of my research is to support the design and use of intelligent systems in real-world contexts, ensuring they remain usable, trustworthy, and transparent for the people who rely on them.
 
 <!--and beneficial-->
 <!--I explore how to build interactive systems that fit people’s needs and contexts, especially when these systems involve complex or intelligent behaviors. 
