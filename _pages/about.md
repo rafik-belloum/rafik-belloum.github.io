@@ -23,7 +23,7 @@ You can find more details about my [research activities](/research/) and [teachi
   <ul id="news-list" style="list-style: none; padding-left: 0; margin: 0;">
   <li style="margin-bottom: 0.7em;">
   I am offering a 6-month Master's internship on <strong>Human-Autonomy Teaming</strong> at LAMIH (UPHF), focusing on the design and evaluation of supervision tools for human-robot collaboration scenarios. 
-  <a href="LIEN_DE_L_OFFRE" target="_blank">More information</a>.
+  <a href="https://gdr-macs.fr/node/5245" target="_blank">More information</a>.
 </li>  
   <li style="margin-bottom: 0.7em;">
       Our <a href="https://sites.google.com/view/xai4u-ihm25/" target="_blank">XAI4U workshop</a> will take place at 
