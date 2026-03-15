@@ -8,8 +8,8 @@ author_profile: true
 ### Research Interests
 
 I design, develop and evaluate interactive systems that adapt to people’s needs, abilities, and contexts. I am particularly interested in intelligent and data-driven systems, where considering human factors is essential to ensure usability, foster trust, and enable effective interaction.
-
-Through an interdisciplinary approach combining computer science with psychology and cognitive ergonomics, I contribute user-centered methods and develop tool support to address both technical and cognitive challenges, with software engineering techniques providing a complementary foundation. 
+<!--Through an interdisciplinary approach combining computer science with psychology and cognitive ergonomics, I contribute user-centered methods and develop tool support to address both technical and cognitive challenges, with software engineering techniques providing a complementary foundation.-->
+Through an interdisciplinary approach combining computer science, psychology, and cognitive science, I contribute user-centered methods and develop tool support to address both technical and cognitive challenges, with software engineering techniques providing a complementary foundation.
 
 I have contributed to projects in healthcare and ambient assisted living technologies supporting older adults aging in place, exploring visualization and explainable AI for decision support.
 
