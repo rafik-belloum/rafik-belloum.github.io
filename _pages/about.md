@@ -39,7 +39,7 @@ You can find more details about my [research activities](/research/) and [teachi
   More information: https://gdr-macs.fr/node/5245
 
 -->
-```
+
 
 
 <script>
