@@ -17,31 +17,30 @@ My research is in Human–Computer Interaction. I develop and evaluate human-cen
 
 You can find more details about my [research activities](/research/) and [teaching responsibilities](/teaching/).
 
+
 ### News
 
-<div id="news-box" style="margin-top: 1em; border-left: 4px solid #ccc; padding-left: 1em; font-size: 0.95em;">
-  <ul id="news-list" style="list-style: none; padding-left: 0; margin: 0;">
-  <li style="margin-bottom: 0.7em;">
-  I am offering a 6-month Master's internship on Human-Autonomy Teaming at LAMIH (UPHF), focusing on the design and evaluation of supervision tools for human-robot collaboration scenarios. 
-  <a href="https://gdr-macs.fr/node/5245" target="_blank">More information</a>.
-</li>  
-  <li style="margin-bottom: 0.7em;">
-      Our <a href="https://sites.google.com/view/xai4u-ihm25/" target="_blank">XAI4U workshop</a> will take place at 
-  <a href="https://sites.google.com/view/xai4u-ihm25/accueil?authuser=0#h.qumg02b5km57" target="_blank">IHM 2025</a> (Toulouse). Program available <a href="https://sites.google.com/view/xai4u-ihm25/#h.qumg02b5km57" target="_blank">online</a>. 
-    </li>
-    <li style="margin-bottom: 0.7em;">
-      José Cezar Filho will present our work at <a href="https://conf.researchr.org/home/vlhcc-2024" target="_blank">VL/HCC 2024</a>.
-    </li>
-    <div id="extra-news" style="overflow: hidden; height: 0; transition: height 0.4s ease;">
-      <li style="margin-bottom: 0.7em;">
-        Our <a href="https://chi2023.acm.org/" target="_blank">CHI</a> paper received an Honorable Mention (Top 5%).
-      </li>
-    </div>
-  </ul>
-  <a id="toggle-news" style="cursor: pointer; font-size: 0.85em; display: inline-block; margin-top: 0.3em; color: #555; text-decoration: underline;">
-    See more <span id="chevron">↧</span>
-  </a>
-</div>
+- 🏆 Our paper *"Analyzing Empirical Findings on User Reliance Behaviors in XAI-Assisted Decision-Making"* received the **Best Paper Award** at [RCIS 2026](https://link.springer.com/chapter/10.1007/978-3-032-26836-5_3).
+
+- 📢 Our [XAI4U workshop](https://sites.google.com/view/xai4u-ihm25/) will take place at [IHM 2025](https://sites.google.com/view/xai4u-ihm25/accueil?authuser=0#h.qumg02b5km57) (Toulouse). Program available [online](https://sites.google.com/view/xai4u-ihm25/#h.qumg02b5km57).
+
+- 🎤 José Cezar Filho will present our work at [VL/HCC 2024](https://conf.researchr.org/home/vlhcc-2024).
+
+<details>
+<summary>See more</summary>
+
+- 🏅 Our CHI 2023 paper received an **Honorable Mention Award** (Top 5% of submissions).
+
+</details>
+
+<!-- Archived news
+
+- I am offering a 6-month Master's internship on Human-Autonomy Teaming at LAMIH (UPHF), focusing on the design and evaluation of supervision tools for human-robot collaboration scenarios.
+  More information: https://gdr-macs.fr/node/5245
+
+-->
+```
+
 
 <script>
   document.addEventListener('DOMContentLoaded', () => {
