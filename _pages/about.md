@@ -25,7 +25,7 @@ You can find more details about my [research activities](/research/) and [teachi
   <ul id="news-list" style="list-style: none; padding-left: 0; margin: 0;">
 
   <li style="margin-bottom: 0.7em;">
-    🏆 Our paper <em>Analyzing Empirical Findings on User Reliance Behaviors in XAI-Assisted Decision-Making</em> received the <strong>Best Paper Award</strong> at
+    Our paper <em>Analyzing Empirical Findings on User Reliance Behaviors in XAI-Assisted Decision-Making</em> received the <strong>Best Paper Award</strong> at
     <a href="https://link.springer.com/chapter/10.1007/978-3-032-26836-5_3" target="_blank">RCIS 2026</a>.
   </li>
 
@@ -48,7 +48,7 @@ You can find more details about my [research activities](/research/) and [teachi
 
   <div id="extra-news" style="overflow: hidden; height: 0; transition: height 0.4s ease;">
       <li style="margin-bottom: 0.7em;">
-        🏅 Our <a href="https://chi2023.acm.org/" target="_blank">CHI 2023</a> paper received an <strong>Honorable Mention Award</strong> (Top 5%).
+        Our <a href="https://chi2023.acm.org/" target="_blank">CHI 2023</a> paper received an <strong>Honorable Mention Award</strong> (Top 5%).
       </li>
   </div>
 
