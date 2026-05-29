@@ -22,7 +22,7 @@ You can find more details about my [research activities](/research/) and [teachi
 <div id="news-box" style="margin-top: 1em; border-left: 4px solid #ccc; padding-left: 1em; font-size: 0.95em;">
   <ul id="news-list" style="list-style: none; padding-left: 0; margin: 0;">
     <li style="margin-bottom: 0.7em;">
-      Our paper <em>Analyzing Empirical Findings on User Reliance Behaviors in XAI-Assisted Decision-Making</em> received the <strong>Best Paper Award</strong> at
+      Our paper <em>Analyzing Empirical Findings on User Reliance Behaviors in XAI-Assisted Decision-Making</em> received the Best Paper Award at
       <a href="https://link.springer.com/chapter/10.1007/978-3-032-26836-5_3" target="_blank">RCIS 2026</a>.
     </li>
   <!--<li style="margin-bottom: 0.7em;">
